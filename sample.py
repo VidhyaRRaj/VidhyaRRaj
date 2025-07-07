@@ -1,5 +1,5 @@
 #This is Factorial Function
-#Checking CLIs Sampe.py
+#Checking branches CLIs Sample.py
 def factorial(n):
     if n < 0:
         raise ValueError("Factorial is not defined for negative numbers.")
